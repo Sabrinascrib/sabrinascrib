@@ -5,9 +5,6 @@ I'm Sabrina, a 15 year old frontend developer and designer.🦄 I'm very passion
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sabrinascrib&show_icons=true&locale=en" alt="sabrinascrib" /></p>
-
-
 
 
 ## Check me out
