@@ -7,6 +7,6 @@ I'm Sabrina, a 15 year old frontend developer and designer.🦄 I'm very passion
 
 
 
-## Check me out
+## My Portfolio
 - 👨‍💻 My <a href="https://sabrinaabrodi.vercel.app/">Portfolio</a>
 
