@@ -9,8 +9,6 @@ Not only a coder, but also a highschool student and graphic designer. 😈
 
 
 
-
-
 ## My Portfolio
 - 👨‍💻 My <a href="https://sabrinaabrodi.vercel.app/">Portfolio</a>
 
