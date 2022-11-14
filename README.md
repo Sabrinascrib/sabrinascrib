@@ -6,8 +6,6 @@
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/green-heart_1f49a.png" width="25px" /> - currently working as an intern at <a href="https://www.thearc.de/">THE ARC</a>
 
 
-#### Not only a coder, but also a highschool student and graphic designer.
-
 
 ## My Portfolio
 <a href="https://portfolio-xss1.vercel.app/" target="_blank"> <img
