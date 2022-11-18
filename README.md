@@ -1,7 +1,7 @@
 
 # Hi, I'm Sabrina  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/waving-hand_1f44b.png" width="30px" />
 
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/grinning-face-with-smiling-eyes_1f604.png" width="25px" /> - 15 years old
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/grinning-face-with-smiling-eyes_1f604.png" width="25px" /> - almost 16 years old
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/unicorn_1f984.png" width="25px" /> - frontend developer and designer
 ### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/green-heart_1f49a.png" width="25px" /> - currently working as an intern at <a href="https://www.thearc.de/">THE ARC</a>
 
