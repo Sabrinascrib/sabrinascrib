@@ -15,7 +15,7 @@
 
  <details>
  <summary><h3> <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/woman-technologist_1f469-200d-1f4bb.png" width="25px" />&nbsp;My Coding Journey</h3></summary>
- Hello! My name is Sabrina and I‘m a 16 year old self-taught Front-End Developer based in Germany. My interest in web development started back in 2017, I tried to develop a website out of curiosity after seeing my older brother doing it.
+ Hello! My name is Sabrina and I‘m a 16 year old self-taught Front-End Developer based in Germany. My interest in web development started back in 2017, I tried to develop a website out of curiosity after seeing my brother doing it.
 
 Ever since, I’ve been loving it.
 
