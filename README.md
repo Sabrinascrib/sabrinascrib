@@ -3,7 +3,7 @@
 
 ### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/grinning-face-with-big-eyes_1f603.png" width="30px" /> - 16 years old
 ### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/eyes_1f440.png" width="30px" /> - frontend developer and designer
-### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/green-heart_1f49a.png" width="30px" /> - currently working as a Front-End intern at <a href="https://www.thearc.de/">THE ARC</a>
+### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/green-heart_1f49a.png" width="30px" /> - currently working as a frontend intern at <a href="https://www.thearc.de/">THE ARC</a>
 
 
 #
