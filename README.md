@@ -1,7 +1,7 @@
 
 # Hi, I'm Sabrina  <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/waving-hand_1f44b.png" width="40px" />
 
-### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png" width="30px" /> - 16 years old
+### <img src="https://em-content.zobj.net/source/microsoft-teams/337/grinning-face_1f600.png" width="30px" /> - 16 years old
 ### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/eyes_1f440.png" width="30px" /> - frontend developer and designer
 ### <img src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/green-heart_1f49a.png" width="30px" /> - currently working as a frontend developer intern at <a href="https://www.thearc.de/">THE ARC</a>
 
@@ -19,5 +19,6 @@ Ever since, I’ve been loving it.
 
 When I’m not doing anything coding related, I’m a high schooler who enjoys graphic designing, video editing and working out.
  </details>
+ #
  
  
