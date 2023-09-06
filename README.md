@@ -21,9 +21,6 @@ Ever since I’ve been loving it.
 When I’m not doing anything coding related, I enjoy graphic designing, video editing and working out.
  </details>
  
- #
-
-
 
  
 
